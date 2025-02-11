@@ -5,7 +5,7 @@ I'm **R2** – a Jedi of code, a Sith of syntax errors, and a proud member of th
 ## The Force of My Code
 
 - **Languages:** Go, Rust, C, C++, C#, TypeScript and HTML (with a sprinkle of cosmic magic)
-- **Frameworks & Tools:** React, Node.js, Docker, Git – my trusty lightsabers in the digital cosmos.
+- **Frameworks & Tools:** Docker, Git, and Borg – my trusty lightsabers in the digital cosmos.
 - **Specialty:** Transforming coffee into clean, bug-free code while taming the dark side of unexpected bugs.
 
 ## Galactic Projects
