@@ -1,6 +1,6 @@
 # Hey there, fellow traveler of the code galaxy!
 
-I'm **Cody** – a Jedi of code, a Sith of syntax errors, and a proud member of the Rebel Alliance of developers. My mission? To bring balance to the code force, one commit at a time.
+I'm **R2** – a Jedi of code, a Sith of syntax errors, and a proud member of the Rebel Alliance of developers. My mission? To bring balance to the code force, one commit at a time.
 
 ## The Force of My Code
 
