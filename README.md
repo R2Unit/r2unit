@@ -4,7 +4,7 @@ I'm **Cody** – a Jedi of code, a Sith of syntax errors, and a proud member of 
 
 ## The Force of My Code
 
-- **Languages:** Go, Rust, C, C++, C#, and TypeScript (with a sprinkle of cosmic magic)
+- **Languages:** Go, Rust, C, C++, C#, TypeScript and HTML (with a sprinkle of cosmic magic)
 - **Frameworks & Tools:** React, Node.js, Docker, Git – my trusty lightsabers in the digital cosmos.
 - **Specialty:** Transforming coffee into clean, bug-free code while taming the dark side of unexpected bugs.
 
