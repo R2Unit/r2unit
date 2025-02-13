@@ -13,7 +13,7 @@ I'm **R2** – a Jedi of code, a Sith of syntax errors, and a proud member of th
 Embark on a journey through some of my missions across the galaxy:
 
 - **[Colours](https://github.com/r2unit/colours):** A Library in GoLang to add information to your logs based on output & colours. 
-- **[Rusty Snake](https://github.com/r2unit-rusty-snake):** A simple snake game in Rust 
+- **[Rusty Snake](https://github.com/r2unit/rusty-snake):** A simple snake game in Rust 
 
 ## A Call to All Padawans
 
