@@ -27,4 +27,10 @@ Whether you're a seasoned Jedi or a budding Padawan, I'm always ready to collabo
 > **"Do. Or do not. There is no try."**  
 > — Master Yoda
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 May your commits be swift and your code bug-free. *May the code be with you, always!*
