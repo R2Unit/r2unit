@@ -1,14 +1,14 @@
-# Hey there, fellow traveler of the code galaxy!
+# Hey there, fellow traveler of the galaxy!
 
-I'm **R2** – a Jedi of code, a Sith of syntax errors, and a proud member of the Rebel Alliance of developers. My mission? To bring balance to the code force, one commit at a time.
+I'm **Lorenzo** – a Jedi of code, a Sith of syntax errors, and a proud member of the Rebel Alliance of developers. My mission? To bring balance to the code force, one commit at a time.
 
-## The Force of My Code
+## The Force of My Code ✨
 
 - **Languages:** Go, Rust, C, C++, C#, TypeScript and HTML (with a sprinkle of cosmic magic)
-- **Frameworks & Tools:** Docker, Git, and Borg – my trusty lightsabers in the digital cosmos.
-- **Specialty:** Transforming coffee into clean, bug-free code while taming the dark side of unexpected bugs.
+- **Frameworks & Tools:** Docker, Git, and Borg 
+- **Specialty:** Transforming coffee ☕️ into clean, bug-free code while taming the dark side of unexpected bugs.
 
-## Galactic Projects
+## Projects 📒
 
 Embark on a journey through some of my missions across the galaxy:
 
