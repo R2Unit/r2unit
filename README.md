@@ -1,6 +1,6 @@
 # Hey there, fellow traveler of the galaxy!
 
-I'm **Lorenzo** – a Jedi of code, a Sith of syntax errors, and a proud member of the Rebel Alliance of developers. My mission? To bring balance to the code force, one commit at a time.
+Hey, I'm **Lorenzo**. For me, coding often feels like wielding the Force – incredibly powerful when it flows right! But let's be real, those syntax errors can feel like the dark side tempting you. I'm proud to be part of the 'Rebel Alliance' of developers, learning and building together. My personal mission is to contribute good, clean code and help bring balance to every project I touch.
 
 ## The Force of My Code ✨
 
