@@ -6,19 +6,11 @@ Hey, I'm **Lorenzo**. For me, coding often feels like wielding the Force – inc
 
 These are the abilities and tools I bring to the Alliance:
 
-* **Fluent in These Tongues of the Force:**
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" height="30"/> Go &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" height="30"/> Rust &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="30"/> C &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30"/> C++ &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="30"/> C# &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/> TypeScript &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" height="30"/> HTML
-    *(Plus a touch of cosmic energy)*
+* **Languages I Wield:** Go, Rust, C, C++, C#, TypeScript, and HTML *(All infused with a sprinkle of cosmic magic)*
 
-* **My Co-Pilots & Navigation Gear:** Docker (keeping deployments consistent across systems), Git (tracking our flight path through code history), Borg (for managing large-scale operations, even if it feels a bit... different).
+* **My Astromech Droids & Starship Systems:** Docker (for standardized transports), Git (my Jedi archive system), and Borg (for when you need... collective efficiency across the stars).
 
-* **My Jedi Code:** Turn coffee ☕️ into elegant solutions, hunt down elusive bugs like bounty hunters, and strive for balance in every commit.
+* **Primary Mission Objective:** Transforming coffee ☕️ into clean, reliable code and bravely battling the dark side of unexpected bugs.
 
 ## Projects 📒
 
