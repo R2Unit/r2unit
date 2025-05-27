@@ -1,6 +1,6 @@
 # Hey there, fellow traveler of the galaxy!
 
-Hey, I'm **Lorenzo**. For me, coding often feels like wielding the Force – incredibly powerful when it flows right! But let's be real, those syntax errors can feel like the dark side tempting you. I'm proud to be part of the 'Rebel Alliance' of developers, learning and building together – especially within the open-source galaxy, sharing knowledge freely like true Rebels.
+Hey, I'm **R2**. For me, coding often feels like wielding the Force – incredibly powerful when it flows right! But let's be real, those syntax errors can feel like the dark side tempting you. I'm proud to be part of the 'Rebel Alliance' of developers, learning and building together – especially within the open-source galaxy, sharing knowledge freely like true Rebels.
 
 ## Harnessing the Code Force ✨
 
@@ -26,15 +26,6 @@ Whether you're a seasoned Jedi or a budding Padawan, I'm always ready to collabo
 ## How to Connect
 
 - **Email:** [r2unit@proton.me](mailto:r2unit@proton.me)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lorenzo-karel/)
 
 > **"Do. Or do not. There is no try."**  
 > — Master Yoda
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-May your commits be swift and your code bug-free. *May the code be with you, always!*
